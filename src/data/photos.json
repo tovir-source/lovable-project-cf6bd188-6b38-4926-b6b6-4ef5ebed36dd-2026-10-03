@@ -1,0 +1,182 @@
+[
+  {
+    "id": "gallery-01",
+    "date": "2026-10-05",
+    "src": "/__l5e/assets-v1/8cfec80d-8d2e-4ca3-b9ee-be92f7091c77/tournament-photo-01.jpg",
+    "width": 1920,
+    "height": 1776,
+    "alt": "Apertura y bienvenida — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Apertura y bienvenida"
+  },
+  {
+    "id": "gallery-02",
+    "date": "2026-10-05",
+    "src": "/__l5e/assets-v1/faa8f496-b576-47c1-97ec-e9cab2671e8d/tournament-photo-02.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Encuentro de delegaciones — imagen de demostración",
+    "categoryId": "f8",
+    "event": "Encuentro de delegaciones"
+  },
+  {
+    "id": "gallery-03",
+    "date": "2026-10-05",
+    "src": "/__l5e/assets-v1/66206e1c-d273-4aa6-81dc-ba96a5ce4f9f/tournament-photo-03.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Preparación antes del torneo — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Preparación antes del torneo"
+  },
+  {
+    "id": "gallery-04",
+    "date": "2026-10-06",
+    "src": "/__l5e/assets-v1/804a9583-cff5-40ec-9de1-2f6dc9903f15/tournament-photo-04.jpg",
+    "width": 1703,
+    "height": 1250,
+    "alt": "Inicio de la fase de grupos — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Inicio de la fase de grupos"
+  },
+  {
+    "id": "gallery-05",
+    "date": "2026-10-06",
+    "src": "/__l5e/assets-v1/00b34982-1564-4ebe-b863-9848b8580173/tournament-photo-05.jpg",
+    "width": 1716,
+    "height": 1250,
+    "alt": "Acción en la primera jornada — imagen de demostración",
+    "categoryId": "f8",
+    "event": "Acción en la primera jornada"
+  },
+  {
+    "id": "gallery-06",
+    "date": "2026-10-06",
+    "src": "/__l5e/assets-v1/5bc786af-286a-45c5-a93a-1b7a14803917/tournament-photo-06.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Indicaciones arbitrales — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Indicaciones arbitrales"
+  },
+  {
+    "id": "gallery-07",
+    "date": "2026-10-07",
+    "src": "/__l5e/assets-v1/e856dbca-a7e9-4b1b-bfc1-ee59ae8bd56e/tournament-photo-07.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Disputa por la posesión — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Disputa por la posesión"
+  },
+  {
+    "id": "gallery-08",
+    "date": "2026-10-07",
+    "src": "/__l5e/assets-v1/522924c4-da57-4135-8f3c-646926a8ccd1/tournament-photo-08.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Avance por la banda — imagen de demostración",
+    "categoryId": "f8",
+    "event": "Avance por la banda"
+  },
+  {
+    "id": "gallery-09",
+    "date": "2026-10-07",
+    "src": "/__l5e/assets-v1/28896249-60d1-4ed8-b1a4-4407ad7cf140/tournament-photo-09.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Momento del segundo día — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Momento del segundo día"
+  },
+  {
+    "id": "gallery-10",
+    "date": "2026-10-08",
+    "src": "/__l5e/assets-v1/b0433963-0bf8-49c8-8803-b25b5bfd043f/tournament-photo-10.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Definición de la fase inicial — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Definición de la fase inicial"
+  },
+  {
+    "id": "gallery-11",
+    "date": "2026-10-08",
+    "src": "/__l5e/assets-v1/4c33dbf3-2b3d-45e1-945b-3be3ec8d6f52/tournament-photo-11.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Trabajo colectivo en cancha — imagen de demostración",
+    "categoryId": "f8",
+    "event": "Trabajo colectivo en cancha"
+  },
+  {
+    "id": "gallery-12",
+    "date": "2026-10-08",
+    "src": "/__l5e/assets-v1/e9f80a2f-0b52-4b3d-b290-deadcf520fda/tournament-photo-12.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Camino a las eliminatorias — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Camino a las eliminatorias"
+  },
+  {
+    "id": "gallery-13",
+    "date": "2026-10-09",
+    "src": "/__l5e/assets-v1/0b6c2992-dff7-429f-9289-b0e0956e4c4c/tournament-photo-13.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Cruces decisivos — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Cruces decisivos"
+  },
+  {
+    "id": "gallery-14",
+    "date": "2026-10-09",
+    "src": "/__l5e/assets-v1/3066b1b7-920d-4641-b6b4-8b08784e7c32/tournament-photo-14.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Duelo en busca de la final — imagen de demostración",
+    "categoryId": "f8",
+    "event": "Duelo en busca de la final"
+  },
+  {
+    "id": "gallery-15",
+    "date": "2026-10-09",
+    "src": "/__l5e/assets-v1/0f29a432-184a-4def-bf44-2b4cc77dd60a/tournament-photo-15.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Celebración de la jornada — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Celebración de la jornada"
+  },
+  {
+    "id": "gallery-16",
+    "date": "2026-10-10",
+    "src": "/__l5e/assets-v1/9e8bbdce-4436-4a60-bc06-d39f3e41d69a/tournament-photo-16.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Jornada de finales — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Jornada de finales"
+  },
+  {
+    "id": "gallery-17",
+    "date": "2026-10-10",
+    "src": "/__l5e/assets-v1/230aec39-6977-4ff4-a192-89715098f247/tournament-photo-17.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Último esfuerzo del torneo — imagen de demostración",
+    "categoryId": "f8",
+    "event": "Último esfuerzo del torneo"
+  },
+  {
+    "id": "gallery-18",
+    "date": "2026-10-10",
+    "src": "/__l5e/assets-v1/940bb2be-11cf-417e-b321-f8e69b117395/tournament-photo-18.jpg",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Cierre del Alianza Soccer Cup — imagen de demostración",
+    "categoryId": "f9",
+    "event": "Cierre del Alianza Soccer Cup"
+  }
+]

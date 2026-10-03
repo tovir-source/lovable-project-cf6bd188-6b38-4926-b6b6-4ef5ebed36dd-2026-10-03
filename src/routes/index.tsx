@@ -1,0 +1,3 @@
+import { createFileRoute } from '@tanstack/react-router';
+import { HomePage } from '@/components/tournament/Views';
+export const Route=createFileRoute('/')({head:()=>({meta:[{title:'Alianza Soccer Cup 2026 | Fútbol sin fronteras en Ipiales'},{name:'description',content:'Programación oficial, jornadas y resultados del Alianza Soccer Cup 2026 en Ipiales. Categorías F9 y F8, del 5 al 10 de octubre.'},{property:'og:title',content:'Alianza Soccer Cup 2026 | Ipiales'},{property:'og:description',content:'Consulta las jornadas, partidos y resultados del torneo infantil Alianza Soccer Cup 2026.'},{property:'og:type',content:'website'},{name:'twitter:card',content:'summary_large_image'}]}),component:HomePage});

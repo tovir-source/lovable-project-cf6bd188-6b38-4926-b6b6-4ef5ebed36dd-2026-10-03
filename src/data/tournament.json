@@ -1,0 +1,124 @@
+{
+  "name": "Alianza Soccer Cup 2026",
+  "city": "Ipiales",
+  "motto": "Fútbol sin fronteras",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-10",
+  "organizer": "OSBOL Sport Marketing",
+  "coordinator": "Oscar Alexander Bolaños Pazmiño",
+  "whatsapp": "318 281 9531",
+  "categories": [
+    {
+      "id": "f9",
+      "name": "2016–2017 F9",
+      "description": "Clasificatorio Zonal Nacional Chiquifútbol · Sur Occidente Colombia 2027",
+      "groups": [
+        {
+          "id": "A",
+          "slots": [
+            "A1",
+            "A2",
+            "A3",
+            "A4"
+          ]
+        },
+        {
+          "id": "B",
+          "slots": [
+            "B1",
+            "B2",
+            "B3",
+            "B4"
+          ]
+        },
+        {
+          "id": "C",
+          "slots": [
+            "C1",
+            "C2",
+            "C3"
+          ]
+        },
+        {
+          "id": "D",
+          "slots": [
+            "D1",
+            "D2",
+            "D3"
+          ]
+        }
+      ],
+      "qualification": "Los dos primeros de cada grupo clasifican a cuartos de final."
+    },
+    {
+      "id": "f8",
+      "name": "2018–2019 F8",
+      "description": "Proyección Torneo Internacional Quito",
+      "groups": [
+        {
+          "id": "A",
+          "slots": [
+            "A1",
+            "A2",
+            "A3",
+            "A4"
+          ]
+        },
+        {
+          "id": "B",
+          "slots": [
+            "B1",
+            "B2",
+            "B3"
+          ]
+        },
+        {
+          "id": "C",
+          "slots": [
+            "C1",
+            "C2",
+            "C3"
+          ]
+        }
+      ],
+      "qualification": "Los diez primeros de la tabla general juegan la fase eliminatoria. Pasan a cuartos los cinco ganadores y los tres mejores perdedores."
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-06",
+      "label": "Martes 6 de octubre",
+      "short": "Mar 6",
+      "slug": "martes-6-octubre"
+    },
+    {
+      "date": "2026-10-07",
+      "label": "Miércoles 7 de octubre",
+      "short": "Mié 7",
+      "slug": "miercoles-7-octubre"
+    },
+    {
+      "date": "2026-10-08",
+      "label": "Jueves 8 de octubre",
+      "short": "Jue 8",
+      "slug": "jueves-8-octubre"
+    },
+    {
+      "date": "2026-10-09",
+      "label": "Viernes 9 de octubre",
+      "short": "Vie 9",
+      "slug": "viernes-9-octubre"
+    },
+    {
+      "date": "2026-10-10",
+      "label": "Sábado 10 de octubre",
+      "short": "Sáb 10",
+      "slug": "sabado-10-octubre"
+    }
+  ],
+  "opening": {
+    "time": null,
+    "venue": null,
+    "description": null
+  }
+}

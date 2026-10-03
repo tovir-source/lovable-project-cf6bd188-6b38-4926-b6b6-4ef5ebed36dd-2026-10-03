@@ -1,0 +1,3 @@
+import { createFileRoute } from '@tanstack/react-router';
+import { OpeningPage } from '@/components/tournament/Views';
+export const Route=createFileRoute('/inauguracion')({head:()=>({meta:[{title:'Inauguración | Alianza Soccer Cup 2026'},{name:'description',content:'Conoce los equipos y las categorías del Alianza Soccer Cup 2026 en Ipiales.'},{property:'og:title',content:'Inauguración | Alianza Soccer Cup 2026'},{property:'og:description',content:'Equipos participantes e información de apertura del torneo en Ipiales.'},{property:'og:type',content:'website'},{name:'twitter:card',content:'summary_large_image'}]}),component:OpeningPage});

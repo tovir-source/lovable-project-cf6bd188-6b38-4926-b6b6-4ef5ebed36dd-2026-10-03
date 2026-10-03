@@ -1,0 +1,3 @@
+import { createFileRoute } from '@tanstack/react-router';
+import { DayPage } from '@/components/tournament/Views';
+export const Route=createFileRoute('/sabado-10-octubre')({head:()=>({meta:[{title:'Sábado 10 de octubre | Alianza Soccer Cup 2026'},{name:'description',content:'Programación, partidos, tablas y estadísticas del sábado 10 de octubre en el Alianza Soccer Cup 2026 de Ipiales.'},{property:'og:title',content:'Sábado 10 de octubre | Alianza Soccer Cup 2026'},{property:'og:description',content:'Programación, partidos, tablas y estadísticas del sábado 10 de octubre en el Alianza Soccer Cup 2026 de Ipiales.'},{property:'og:type',content:'website'},{name:'twitter:card',content:'summary_large_image'}]}),component:()=> <DayPage date="2026-10-10"/>});

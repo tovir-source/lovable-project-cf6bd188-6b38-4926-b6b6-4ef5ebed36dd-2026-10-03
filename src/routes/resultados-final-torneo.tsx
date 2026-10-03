@@ -1,0 +1,3 @@
+import { createFileRoute } from '@tanstack/react-router';
+import { FinalPage } from '@/components/tournament/Views';
+export const Route=createFileRoute('/resultados-final-torneo')({head:()=>({meta:[{title:'Resultados finales | Alianza Soccer Cup 2026'},{name:'description',content:'Consulta campeones, premios, cuadros y estadísticas finales de F9 y F8 del Alianza Soccer Cup 2026.'},{property:'og:title',content:'Resultados finales | Alianza Soccer Cup 2026'},{property:'og:description',content:'Resultados, clasificaciones y premios finales de las dos categorías.'},{property:'og:type',content:'website'},{name:'twitter:card',content:'summary_large_image'}]}),component:FinalPage});
